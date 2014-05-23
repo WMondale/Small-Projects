@@ -1,4 +1,3 @@
-#Will McKnight
 #Takes an input base n and an output base m, both from 2 to 16, and a number in
 #base n as input.  Returns a number base m as output.  It should be noted that
 #while the input and output are intended as in their respective bases, the data
